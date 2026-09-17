@@ -1,9 +1,10 @@
- Complete Setup Commands
+Complete Setup Commands
 
 You can run the main setup commands in this order:
 
 
 git clone https://github.com/Praveen93152/tiny-url.git
+
 cd tiny-url
 composer install
 cp .env.example .env
