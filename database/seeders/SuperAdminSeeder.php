@@ -16,7 +16,7 @@ class SuperAdminSeeder extends Seeder
     {
         User::updateOrCreate(
             [
-                'email' => 'superadmin@sapark.com'
+                'email' => 'superadmin@sembark.com'
             ],
             [
                 'name' => 'Praveeen',
